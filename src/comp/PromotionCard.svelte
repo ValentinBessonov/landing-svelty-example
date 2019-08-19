@@ -1,6 +1,6 @@
 <script>
-    export let name;
-    export let desc;
+    export let text;
+    export let value;
     export let filename;
 </script>
 
@@ -9,8 +9,8 @@
 
 <div>
     <div class="card">
-        {name}
-        {desc}
+        {text}
+        {value}
         {filename}
     </div>
 </div>
