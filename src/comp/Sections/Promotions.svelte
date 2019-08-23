@@ -51,7 +51,6 @@
       grid-template-columns: 1fr;
       grid-template-rows: 1fr 1fr 1fr;
       grid-gap: 4vw;
-
     }
   }
 
@@ -66,12 +65,16 @@
     border: 1px solid var(--light-color);
     background: var(--dark-color-light);
     padding: 1em;
-    p{margin: 0 1em 1em 1em;}
+    p {
+      margin: 0 1em 1em 1em;
+    }
   }
 </style>
 
 <header>
-  <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Nunito&display=swap"
+    rel="stylesheet" />
 </header>
 
 <section id="promotions">

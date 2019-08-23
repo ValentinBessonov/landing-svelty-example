@@ -17,8 +17,6 @@
   .st2 {
     fill: #ffffff;
   }
-  .st3 {
-  }
   .st4 {
     font-size: 208.4132px;
   }

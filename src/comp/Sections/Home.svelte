@@ -33,7 +33,8 @@
     align-content: center;
     justify-content: center;
     text-align: center;
-    height: 83.5vh;
+    height: 100%;
+    padding: 0;
   }
 </style>
 
