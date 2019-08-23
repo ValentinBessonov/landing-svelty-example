@@ -21,7 +21,7 @@
     background-color: var(--dark-color);
     border: var(--dark-color) 1px solid;
     padding: 0 20px;
-    border-left-color: rgba(255, 255, 255, 0.1);
+    border-left-color: var(--dark-color-light);
     font-size: var(--font-size);
     font-family: var(--font-family);
 

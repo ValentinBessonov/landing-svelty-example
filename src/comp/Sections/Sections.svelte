@@ -11,7 +11,6 @@
     height: 100%;
     width: 100vw;
     position: relative;
-    padding: 2em;
     padding-bottom: 0;
     box-sizing: border-box;
     overflow: auto;

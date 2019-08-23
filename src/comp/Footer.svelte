@@ -12,6 +12,7 @@
     -webkit-flex-direction: row;
     flex-direction: row;
     justify-content: center;
+    z-index: 1000;
   }
 </style>
 
