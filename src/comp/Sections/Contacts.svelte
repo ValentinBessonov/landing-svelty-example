@@ -40,6 +40,7 @@
         Телефон:
         <a href="tel:{contact.number}">{contact.formattingNumber}</a>
       </li>
+      <hr>
     {/each}
   </ul>
 
